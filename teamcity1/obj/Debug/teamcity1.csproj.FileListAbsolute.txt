@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\teamcity1\teamcity1\bin\Debug\teamcity1.exe.config
+C:\Users\User\source\repos\teamcity1\teamcity1\bin\Debug\teamcity1.exe
+C:\Users\User\source\repos\teamcity1\teamcity1\bin\Debug\teamcity1.pdb
+C:\Users\User\source\repos\teamcity1\teamcity1\bin\Debug\nunit.framework.dll
+C:\Users\User\source\repos\teamcity1\teamcity1\bin\Debug\nunit.framework.xml
+C:\Users\User\source\repos\teamcity1\teamcity1\obj\Debug\teamcity1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\teamcity1\teamcity1\obj\Debug\teamcity1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\teamcity1\teamcity1\obj\Debug\teamcity1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\teamcity1\teamcity1\obj\Debug\teamcity1.csproj.CopyComplete
+C:\Users\User\source\repos\teamcity1\teamcity1\obj\Debug\teamcity1.exe
+C:\Users\User\source\repos\teamcity1\teamcity1\obj\Debug\teamcity1.pdb
